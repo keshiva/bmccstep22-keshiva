@@ -15,7 +15,8 @@ Today I learned how to code time and date on Python 2. For the most part, its ve
 Learn Python 2 - Conditionals and Control Flow
 
 Today I learned about true/false statementsd aswell as "and" "or" & "else" statements. I learned more about booleans and in general I have a better understanding on how Python is able to make its own decisions using this code. A thing I was a bit confused about were elseif and not statements. I don't fully understand how they work and also sometimes the inequalities comfuse me aswell. Overall, I do have a good understanding on booleans and overal conditionals and flows but I still need some extra work on this particulat lesson
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Learn Python 2 - Pyglatin
 
 I learned how to create Pyglatin using Python 2, which simply is just rearanging and adding words. I had a difficult time with this lesson, mainly because the website was glithing a lot and in general wasn't really helping me with the lesson. I did have a lot of take aways though. I better understood the if statements. However i stil don't completelty understand the "len" statements too much. Also I couldn't test out my code because the website was glitching out too much for me to do anything. Im still happy I learned something however.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
